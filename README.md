@@ -1,2 +1,1 @@
-# lamp-poc
-Apache for Glitch Projects
+# LAMP Proof of Concept
