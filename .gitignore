@@ -1,0 +1,9 @@
+# dotenv environment variables file
+.env
+.env.test
+
+# glitch.com project assets
+.glitch-assets
+
+# mysql
+.mysql_history
